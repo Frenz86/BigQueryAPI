@@ -10,8 +10,8 @@ from google.colab import auth
 auth.authenticate_user()
 ```
 
-## 2. Specify Project
-This step include specify the project on which we are going to work in our GCP Platform.
+## 2. Specify your Project
+This step include specify the project on which we are going to work in our GCP Platform. In order to perform this step we need to have a google account registered in Google Cloud Platform
 
 ```
 project_id = "YOUR_PROJECT_ID"
