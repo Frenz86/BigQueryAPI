@@ -7,7 +7,21 @@ In order to use the Google Cloud Platfomr in Colab we need to authenticate our G
 
 ```
 from google.colab import auth
-auth.authenticate
+auth.authenticate_user()
 ```
 
-## 2. 
+## 2. Specify Project
+This step include specify the project on which we are going to work in our GCP Platform.
+
+```
+project_id = "YOUR_PROJECT_ID"
+```
+
+## 3. Import BigQuery API library
+In order to use the BigQuery API we need to import the right library for our resource, in this case BigQuery
+
+```
+from google.cloud import bigquery
+```
+
+
