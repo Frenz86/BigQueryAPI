@@ -19,13 +19,13 @@ project_id = "YOUR_PROJECT_ID"
 ```
 
 ## 3. Import BigQuery API library
-In order to use the BigQuery API we need to import the right library for our resource, in this case BigQuery
+In order to use the BigQuery API we need to import the right library for our resource, in this case [BigQuery](https://cloud.google.com/bigquery/docs/introduction)
 
 ```
 from google.cloud import bigquery
 ```
 ## Move forward
-From this point ahead you will specify to which [Dataset](https://cloud.google.com/bigquery/docs/datasets-introand) and which table you will access. We will use Public Datasets that are available in BigQuery for us to practice.
+From this point ahead you will specify to which [Dataset](https://cloud.google.com/bigquery/docs/datasets-introand) and which table you will access. We will use Public Datasets that are available in [BigQuery](https://cloud.google.com/bigquery/docs/introduction) for us to practice.
 
 ## Public Datasets used in these Examples
 
