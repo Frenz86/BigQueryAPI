@@ -24,5 +24,15 @@ In order to use the BigQuery API we need to import the right library for our res
 ```
 from google.cloud import bigquery
 ```
+## Move forward
+From this point ahead you will specify to which [Dataset](https://cloud.google.com/bigquery/docs/datasets-introand) table you will access. We will use Public Datasets that are available in BigQuery for us to practice.
 
+## Public Datasets used in these Examples
 
+- [Chicago News](https://github.com/mtpradoc/BigQueryAPI/blob/main/01_Access_Dataset_Chicago_Crime.ipynb)
+- [Chicago Crime](https://github.com/mtpradoc/BigQueryAPI/blob/main/01_Access_Dataset_Chicago_Crime.ipynb)
+- [Open Air Quality](https://github.com/mtpradoc/BigQueryAPI/blob/main/02_Access_Dataset_Open_Air_Quality.ipynb)
+- [Hacker News](https://github.com/mtpradoc/BigQueryAPI/blob/main/03_Group_By%2C_Having_Dataset_Hacker_News.ipynb)
+- [World Bank International Education](https://github.com/mtpradoc/BigQueryAPI/blob/main/04_Order_By_Dataset_World_Bank_International_Education.ipynb)
+- [Chicago Taxi Trips](https://github.com/mtpradoc/BigQueryAPI/blob/main/05_AS_%26_WITH_Dataset_Chicago_Taxi_Trips.ipynb)
+- [Stack Overflow](https://github.com/mtpradoc/BigQueryAPI/blob/main/06_JOINING_DATA_Dataset_Stack_Overflow.ipynb)
