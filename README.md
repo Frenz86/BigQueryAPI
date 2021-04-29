@@ -29,12 +29,12 @@ From this point ahead you will specify to which [Dataset](https://cloud.google.c
 
 ## Public Datasets used in these Examples
 
-- [Chicago News](https://github.com/mtpradoc/BigQueryAPI/blob/main/01_Access_Dataset_Chicago_Crime.ipynb)
-- [Chicago Crime](https://github.com/mtpradoc/BigQueryAPI/blob/main/01_Access_Dataset_Chicago_Crime.ipynb)
-- [Open Air Quality](https://github.com/mtpradoc/BigQueryAPI/blob/main/02_Access_Dataset_Open_Air_Quality.ipynb)
-- [Hacker News](https://github.com/mtpradoc/BigQueryAPI/blob/main/03_Group_By%2C_Having_Dataset_Hacker_News.ipynb)
-- [World Bank International Education](https://github.com/mtpradoc/BigQueryAPI/blob/main/04_Order_By_Dataset_World_Bank_International_Education.ipynb)
-- [Chicago Taxi Trips](https://github.com/mtpradoc/BigQueryAPI/blob/main/05_AS_%26_WITH_Dataset_Chicago_Taxi_Trips.ipynb)
-- [Stack Overflow](https://github.com/mtpradoc/BigQueryAPI/blob/main/06_JOINING_DATA_Dataset_Stack_Overflow.ipynb)
+- [Chicago News](https://github.com/mtpradoc/BigQueryAPI/blob/main/01_Access_Dataset_Chicago_Crime.ipynb). Access using BigQuery API
+- [Chicago Crime](https://github.com/mtpradoc/BigQueryAPI/blob/main/01_Access_Dataset_Chicago_Crime.ipynb). Access using BigQuery API
+- [Open Air Quality](https://github.com/mtpradoc/BigQueryAPI/blob/main/02_Access_Dataset_Open_Air_Quality.ipynb). Access using BigQuery API
+- [Hacker News](https://github.com/mtpradoc/BigQueryAPI/blob/main/03_Group_By%2C_Having_Dataset_Hacker_News.ipynb). Use GROUP BY
+- [World Bank International Education](https://github.com/mtpradoc/BigQueryAPI/blob/main/04_Order_By_Dataset_World_Bank_International_Education.ipynb). Use ORDER BY
+- [Chicago Taxi Trips](https://github.com/mtpradoc/BigQueryAPI/blob/main/05_AS_%26_WITH_Dataset_Chicago_Taxi_Trips.ipynb). Use AS & WITH
+- [Stack Overflow](https://github.com/mtpradoc/BigQueryAPI/blob/main/06_JOINING_DATA_Dataset_Stack_Overflow.ipynb). Use INNER JOIN
 
 Enjoy swimming through this code 🙋‍♀️
