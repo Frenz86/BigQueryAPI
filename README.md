@@ -36,3 +36,5 @@ From this point ahead you will specify to which [Dataset](https://cloud.google.c
 - [World Bank International Education](https://github.com/mtpradoc/BigQueryAPI/blob/main/04_Order_By_Dataset_World_Bank_International_Education.ipynb)
 - [Chicago Taxi Trips](https://github.com/mtpradoc/BigQueryAPI/blob/main/05_AS_%26_WITH_Dataset_Chicago_Taxi_Trips.ipynb)
 - [Stack Overflow](https://github.com/mtpradoc/BigQueryAPI/blob/main/06_JOINING_DATA_Dataset_Stack_Overflow.ipynb)
+
+Enjoy swimming through this code 🙋‍♀️
